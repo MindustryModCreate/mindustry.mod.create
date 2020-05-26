@@ -1,0 +1,141 @@
+body { 
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  color: #444444;
+  vertical-align: center;
+  background: url(fon.jpg); 
+}
+
+h2 { 
+  font-size:120%; 
+  color:#ffffff; 
+  background: #444444; 
+  padding: 4px 0 3px 4px; 
+  margin-top: 4px; 
+}
+
+h3 { 
+  font-size:120%; 
+  margin: 0 0 2px 0; 
+}
+
+h4 { 
+  font-size:110%; 
+}
+
+.subsection {
+  font-size:120%; 
+  background: #ADD8E6;
+  border-radius: 15px;
+  vertical-align: center;
+  display: center;
+  margin: 4px;
+  padding: 8px;
+}
+
+.text {
+  font-family: sans-serif;
+}
+
+.code { 
+  font-family: "Courier New", Courier, monospace; 
+  font-size: 85%; 
+}
+
+ul { 
+  padding: 3px 24px 10px 24px; 
+}
+
+ul li { 
+  padding: 2px 0 2px 0; 
+}
+
+.link {
+  font-size:90%; 
+  border-radius: 20px;
+  width: 200px;
+  height: 35px;
+  background: #FFFFFF;
+  margin: 4px;
+  vertical-align: middle;
+}
+
+.link-items {
+  font-size:90%; 
+  border-radius: 20px;
+  width: 175px;
+  height: 35px;
+  background: #FFFFFF;
+  margin: 4px;
+  vertical-align: middle;
+}
+
+.link-liquid {
+  font-size:90%;
+  border-radius: 20px;
+  width: 170px;
+  height: 35px;
+  background: #FFFFFF;
+  margin: 4px;
+  vertical-align: middle;
+}
+
+.link-wall {
+  font-size: 90%;
+  border-radius: 20px;
+  width: 175px;
+  height: 35px;
+  background: #FFFFFF;
+  margin: 4px;
+  vertical-align: middle;
+}
+
+.subsection-items {
+  background: #BDB76B;
+  border-radius: 15px;
+  vertical-align: center;
+  display: center;
+  margin: 4px;
+}
+
+.subsection-wall {
+  font-size: 95%;
+  background: #008080;
+  border-radius: 15px;
+  vertical-align: center;
+  display: center;
+  margin: 4px;
+  
+}
+
+.authors {
+  background: #16CE86;
+  margin: auto;
+  border-radius: 10px;
+  vertical-align: center;
+  display: inline-block;
+}
+
+.authors-text {
+  margin: 10px;
+}
+
+.subsection-content {
+  font-size: 120%; 
+  background: #808080;
+  border-radius: 15px;
+  vertical-align: center;
+  display: center;
+  margin: 4px;
+  padding: 8px;
+}
+
+.subsection-liquid {
+  font-size: 100%; 
+  background: #FFA07A;
+  border-radius: 15px;
+  vertical-align: center;
+  display: center;
+  margin: 4px;
+  padding: 8px;
+}

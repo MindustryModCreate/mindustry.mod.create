@@ -120,6 +120,12 @@ ul li {
   margin: 10px;
 }
 
+.white {
+  font-size: 160%;
+  background-color: #ffffff;
+  padding: 8px;
+}
+
 .subsection-content {
   font-size: 120%; 
   background: #808080;

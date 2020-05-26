@@ -121,6 +121,7 @@ ul li {
 }
 
 .white {
+  color: #000000;
   font-size: 160%;
   background-color: #ffffff;
   padding: 8px;

@@ -125,6 +125,7 @@ ul li {
   font-size: 160%;
   background-color: #ffffff;
   padding: 8px;
+  border-radius: 15px;
 }
 
 .subsection-content {

@@ -1,7 +1,19 @@
+# Welcome (EN)
+## What's it?
+This is the site for the Industry Mod Create program. 
+And also for the VK app. (all links below)
 
-# Сайт был создан для программы Mindustry Mod Create
-[Сайт](https://paulieg626.github.io/mindustry.mod.create/)
+## Links
+To go to our site, click on [this link](https://paulieg626.github.io/mindustry.mod.create/).
+We also have a group in the [VK for Mindustry Mod Create](https://vk.com/mindustry_mod_create).
+And here is our [application in VK](https://vk.com/app7484109) for Mindustry Mod Create.
+
+# Добро пожаловать (RU)
+## А что это такое?
+Это сайт, для программы Mindustry Mod Create. 
+И так же для приложения в ВК. (все ссылки ниже)
+
 ## Ссылки
-[Мини APP в VK по Mindustry Mod Create](https://vk.com/app7484109)
-
-[Группа в VK по Mindustry Mod Create](https://vk.com/mindustry_mod_create)
+Чтобы перейти на наш сайт, нажмите на [эту ссылку](https://paulieg626.github.io/mindustry.mod.create/).
+Так же у нас есть группа в [ВК по Mindustry Mod Create](https://vk.com/mindustry_mod_create).
+А вот наше [приложение в VK](https://vk.com/app7484109) для Mindustry Mod Сreate.

@@ -51,7 +51,7 @@ ul li {
 }
 
 .link {
-  font-size:90%; 
+  font-size: 90%; 
   border-radius: 20px;
   width: 200px;
   height: 35px;
@@ -61,7 +61,7 @@ ul li {
 }
 
 .link-items {
-  font-size:90%; 
+  font-size: 90%; 
   border-radius: 20px;
   width: 175px;
   height: 35px;
@@ -71,7 +71,7 @@ ul li {
 }
 
 .link-liquid {
-  font-size:90%;
+  font-size: 90%;
   border-radius: 20px;
   width: 170px;
   height: 35px;
@@ -90,8 +90,26 @@ ul li {
   vertical-align: middle;
 }
 
+.link-fs {
+  font-size: 90%; 
+  border-radius: 20px;
+  width: 200px;
+  height: 35px;
+  background: #FFFFFF;
+  margin: 4px;
+  vertical-align: middle;
+}
+
 .subsection-items {
   background: #BDB76B;
+  border-radius: 15px;
+  vertical-align: center;
+  display: center;
+  margin: 4px;
+}
+
+.subsection-fs {
+  background: #B461B4;
   border-radius: 15px;
   vertical-align: center;
   display: center;

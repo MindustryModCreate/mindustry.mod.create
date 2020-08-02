@@ -25,7 +25,7 @@ h4 {
 
 .subsection {
   font-size:120%; 
-  background: #ADD8E6;
+  background: #ADD8E6b0;
   border-radius: 15px;
   vertical-align: center;
   display: center;
@@ -101,7 +101,7 @@ ul li {
 }
 
 .subsection-items {
-  background: #BDB76B;
+  background: #BDB76Bb0;
   border-radius: 15px;
   vertical-align: center;
   display: center;
@@ -109,7 +109,7 @@ ul li {
 }
 
 .subsection-fs {
-  background: #B461B4;
+  background: #B461B4b0;
   border-radius: 15px;
   vertical-align: center;
   display: center;
@@ -118,7 +118,7 @@ ul li {
 
 .subsection-wall {
   font-size: 95%;
-  background: #008080;
+  background: #008080b0;
   border-radius: 15px;
   vertical-align: center;
   display: center;
@@ -148,7 +148,7 @@ ul li {
 
 .subsection-content {
   font-size: 120%; 
-  background: #808080;
+  background: #808080b0;
   border-radius: 15px;
   vertical-align: center;
   display: center;
@@ -158,7 +158,7 @@ ul li {
 
 .subsection-liquid {
   font-size: 100%; 
-  background: #FFA07A;
+  background: #FFA07Ab0;
   border-radius: 15px;
   vertical-align: center;
   display: center;

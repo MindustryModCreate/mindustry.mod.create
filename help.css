@@ -141,9 +141,10 @@ ul li {
 .white {
   color: #000000;
   font-size: 160%;
-  background-color: #90EE90;
+  background-color: #90EE90b0;
   padding: 8px;
   border-radius: 15px;
+  font-family: "Courier New", Courier, monospace;
 }
 
 .subsection-content {

@@ -14,6 +14,11 @@ h2 {
   margin-top: 4px; 
 }
 
+h1 {
+  color:#ffffff; 
+  background: #444444;
+}
+
 h3 { 
   font-size:120%; 
   margin: 0 0 2px 0; 
@@ -139,12 +144,15 @@ ul li {
 }
 
 .white {
-  color: #000000;
   font-size: 160%;
-  background-color: #90EE90b0;
+  background-color: #808080b0;
   padding: 8px;
   border-radius: 15px;
   font-family: "Courier New", Courier, monospace;
+}
+
+.white-name {
+  color: #D3D3D3;
 }
 
 .subsection-content {

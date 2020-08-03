@@ -55,6 +55,16 @@ ul li {
   padding: 2px 0 2px 0; 
 }
 
+.link-button {
+  font-size: 90%; 
+  border-radius: 20px;
+  width: 175px;
+  height: 35px;
+  background: #FFFFFF;
+  margin: 4px;
+  vertical-align: middle;
+}
+
 .link {
   font-size: 90%; 
   border-radius: 20px;

@@ -1,4 +1,5 @@
 § Ютуб
 § Название%Ссылка_на_видео%Ссылка_на_картинку%цвет_текста
-Аватарка%https://vk.com/oleglysuhin%https://sun9-6.userapi.com/c857432/v857432622/19f55a/8-7MBFaikyw.jpg%#ff0000
-Название%https://vk.com/oleglysuhin%https://sun9-6.userapi.com/c857432/v857432622/19f55a/8-7MBFaikyw.jpg%#00ff00
+1%https://vk.com/oleglysuhin%https://sun9-6.userapi.com/c857432/v857432622/19f55a/8-7MBFaikyw.jpg%#ff0000
+2%https://vk.com/oleglysuhin%https://sun9-6.userapi.com/c857432/v857432622/19f55a/8-7MBFaikyw.jpg%#00ff00
+3%https://vk.com/oleglysuhin%https://sun9-6.userapi.com/c857432/v857432622/19f55a/8-7MBFaikyw.jpg%#0000ff

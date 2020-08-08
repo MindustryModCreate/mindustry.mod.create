@@ -1,2 +1,2 @@
-#Name:Url:ImaageUrl
-Name:Url:ImageUrl
+#Name%Url%ImaageUrl
+Name%Url%ImageUrl

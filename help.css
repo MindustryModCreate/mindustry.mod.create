@@ -37,6 +37,9 @@ h4 {
   margin: 4px;
   padding: 8px;
 }
+g{
+  background-color: #000000;
+}
 
 .text {
   font-family: sans-serif;
